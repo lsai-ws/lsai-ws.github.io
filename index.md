@@ -5,7 +5,8 @@ layout: page
 
 # 1st Doctoral Workshop on Law, Society and Artificial Intelligence
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Image by Su San Lee on Unsplash
+" width="75%" %}
 
 
 **December 2nd, 2024<br>
@@ -38,7 +39,3 @@ Relevant abstracts cover one or more of the following topics:
 **Author Notification**: October 31st, 2024 (23:59 AoE)<br>
 **Workshop day**: December 2nd 2024" align="left" color="warning" %}
 
-
-------
-
-{% include template/credits.html %}
