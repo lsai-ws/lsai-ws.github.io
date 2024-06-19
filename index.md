@@ -34,9 +34,9 @@ Relevant abstracts cover one or more of the following topics:
 - AI, User Experience (UX) and User Interface (UI) design.
 
 ## Important Dates
-{% include alert.html text="Abstract Submission: September 30th, 2024 (23:59 AoE)<br>
-Author Notification: October 31st, 2024 (23:59 AoE)<br>
-Workshop day: December 2nd 2024" align="left" color="warning" %}
+{% include alert.html text="**Abstract Submission**: September 30th, 2024 (23:59 AoE)<br>
+**Author Notification**: October 31st, 2024 (23:59 AoE)<br>
+**Workshop day**: December 2nd 2024" align="left" color="warning" %}
 
 
 ------
