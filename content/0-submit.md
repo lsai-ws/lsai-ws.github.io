@@ -14,4 +14,4 @@ At least two reviewers will evaluate submissions on the basis of relevance, tech
 
 ### Publication
 
-The Workshop chairs are open to the possibility of publishing a **special issue of a journal** for the best papers of the workshop.
+The [i-lex – Journal of Law, Cognitive Science and Artificial Intelligence](https://i-lex.unibo.it/) welcomes the submission of papers developed from the abstracts shared, discussed and presented at the Doctoral Workshop.
