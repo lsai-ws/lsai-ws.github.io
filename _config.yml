@@ -31,9 +31,9 @@ author: evan will
 # your github username for link [optional]
 github_username: evanwill
 # year or date published
-pub_year: 2021
+pub_year: 2024
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+source-code: https://github.com/aisoc-ws/aisoc-ws.github.io
 
 ##########
 # URL VARIABLES [optional!!]

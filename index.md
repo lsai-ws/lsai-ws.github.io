@@ -8,7 +8,7 @@ layout: page
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 
-**December 2nd, 2024
+**December 2nd, 2024<br>
 Pisa (PI), Italy**
 
 
@@ -34,14 +34,10 @@ Relevant abstracts cover one or more of the following topics:
 - AI, User Experience (UX) and User Interface (UI) design.
 
 ## Important Dates
-{% include alert.html text="Abstract Submission: September 30th, 2024 (23:59 AoE)
-Author Notification: October 31st, 2024 (23:59 AoE)
-Workshop day: December 2nd 2024 (TBD)" align="left" color="warning" %}
+{% include alert.html text="Abstract Submission: September 30th, 2024 (23:59 AoE)<br>
+Author Notification: October 31st, 2024 (23:59 AoE)<br>
+Workshop day: December 2nd 2024" align="left" color="warning" %}
 
-
-
-
-{% include toc.html %}
 
 ------
 
