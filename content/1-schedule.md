@@ -26,5 +26,9 @@ The workshop will be roughly organized as follows:
 
 
 ### Keynote Speakers
+Keynote speakers will give talks on topics relevant to the workshop. Further information on contents will be provided here as soon as it is made available by the speakers.
 
-Keynote speakers will give talks on core topics of the workshop. Would you like to hear a talk on a specific topic? Do you have the perfect keynote speaker in mind?  <a href="mailto:ailawandsociety2024@outlook.it">Contact us</a>! We are open to suggestions!
+Prof. **Dino Pedreschi** - University of Pisa<br>
+Prof. **Bart Verheij** - University of Groningen<br>
+Prof. **James Brusseau** - Pace University, University of Trento<br>
+Prof. **Giuseppe Contissa** - University of Bologna, European University Institute
