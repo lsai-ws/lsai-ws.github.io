@@ -6,12 +6,13 @@ nav: true
 ### Submission Guidelines
 Authors are invited to submit original abstracts which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop.
 
-Abstracts should clearly state the research question, methodology, and key findings or expected contributions. Submissions should not exceed **1 page** of content and **1 page** of references. 
+Abstracts should clearly state the research question, methodology, and key findings or expected contributions.
+Submissions should not exceed **1 page** of body and **1 page** of references/figures, and must be formatted according to the [LNCS Springer Template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (available in .tex and .doc).
+
+All submissions must be delivered in **PDF format** at <a href="mailto:ailawandsociety2024@outlook.it"> with object "LSAI workshop submission". Full names and affiliations of all contributing authors **must** be included in the email body. 
 
 At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity. 
-To submit an abstract, please use the following web portal.
 
-{% include button.html text="Submit via Google Forms" link="https://docs.google.com/forms/d/e/1FAIpQLSckRoRjm1U2AdbxStvjc0IYnbPRDvBg7TGMxV2zp5rf3gTnIA/viewform?usp=sharing" color="danger" %}
 
 ### Publication
 

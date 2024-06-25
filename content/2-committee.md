@@ -4,18 +4,12 @@ nav: Committee
 ---
 
 
-### Program Chairs
-
-**Marco Billi**<br>
-University of Bologna, CIRSFID-Alma AI, Bologna, Italy;<br>
-<a href="mailto:marco.billi3@unibo.it">marco.billi3@unibo.it<a><br>
-
+### Organizing Committee
 
 **Vincenzo Calderonio**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>
-IGSG - CNR, Florence, Italy
+IGSG - CNR, Florence, Italy<br>
 <a href="mailto:vincenzo.calderonio@phd.unipi.it ">vincenzo.calderonio@phd.unipi.it <a>
-
 
 **Vittoria Caponecchia**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy; <br>
@@ -24,11 +18,26 @@ Scuola Superiore Sant’Anna, Pisa, Italy<br>
 
 **Andrea Failla**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>
-ISTI-CNR
+Institute of Sciences and Informa<br>
 <a href="mailto:andrea.failla@phd.unipi.it">andrea.failla@phd.unipi.it<a>
+
+**Monique Munarini**<br>
+University of Pisa, Department of Computer Science, Pisa, Italy;<br>
+<a href="mailto:monique.munarini@phd.unipi.it">andrea.failla@phd.unipi.it<a>
 
 **Marco Sanchi**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>
 University of Bologna, CIRSFID - Alma AI Research Center, Bologna, Italy.<br>
 <a href="mailto:marco.sanchi4@unibo.it">marco.sanchi4@unibo.it<a>
 
+
+### Progran Committee
+
+The Program Committee is composed of members of the Organizing Committee as well as:
+
+**Marco Billi**<br>
+University of Bologna, CIRSFID-Alma AI, Bologna, Italy;<br>
+<a href="mailto:marco.billi3@unibo.it">marco.billi3@unibo.it<a><br>
+
+
+**more tba**
