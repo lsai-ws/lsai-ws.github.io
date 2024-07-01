@@ -13,17 +13,27 @@ IGSG - CNR, Florence, Italy<br>
 
 **Vittoria Caponecchia**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy; <br>
-Scuola Superiore Sant’Anna, Pisa, Italy<br>
+Sant’Anna School of Advanced Studies, LIDER-Lab, DIRPOLIS, Pisa, Italy<br>
 <a href="mailto:vittoria.caponecchia@santannapisa.it">vittoria.caponecchia@santannapisa.it<a>
+
+**Irina Carnat**<br>
+University of Pisa, Department of Computer Science, Pisa, Italy;<br>
+Sant’Anna School of Advanced Studies, LIDER-Lab, DIRPOLIS, Pisa, Italy<br>
+<a href="mailto:irina.carnat@santannapisa.it ">irina.carnat@santannapisa.it <a>
 
 **Andrea Failla**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>
-Institute of Sciences and Informa<br>
+Institute of Sciences and Information Technologies "A. Faedo" (ISTI), National Research Council (CNR)<br>
 <a href="mailto:andrea.failla@phd.unipi.it">andrea.failla@phd.unipi.it<a>
+
+**Federico Mazzoni**<br>
+University of Pisa, Department of Computer Science, Pisa, Italy;<br>
+Institute of Sciences and Information Technologies "A. Faedo" (ISTI), National Research Council (CNR)<br>
+<a href="mailto:federico.mazzoni@phd.unipi.it">federico.mazzoni@phd.unipi.it<a>
 
 **Monique Munarini**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>
-<a href="mailto:monique.munarini@phd.unipi.it">andrea.failla@phd.unipi.it<a>
+<a href="mailto:monique.munarini@phd.unipi.it">monique.munarini@phd.unipi.it<a>
 
 **Marco Sanchi**<br>
 University of Pisa, Department of Computer Science, Pisa, Italy;<br>

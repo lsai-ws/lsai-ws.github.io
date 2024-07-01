@@ -13,14 +13,13 @@ The final schedule and invited keynote speakers will be announced as soon as the
 
 The workshop will be roughly organized as follows:
 
-| Time          | Activity                          |
-|---------------|-----------------------------------|
-| 09:00 - 09:10 | Welcome and Introduction          |
-| 09:10 - 10:30 | Keynotes (round I)                |
-| 10:00 - 13:00 | Accepted Abstracts (round I)      |
-| 13:00 - 14:00 | Lunch Break                       |
-| 14:00 - 15:30 | Keynotes (round II)               |
-| 10:00 - 13:00 | Accepted Abstracts (round II)     |
+| Time              | Activity                          |
+|--------------------|-----------------------------------|
+| 09:00 - 10:30      | Keynotes (round I)                |
+| 10:00 - 13:00 (+5) | Accepted Abstracts (round I)      |
+| 13:00 - 14:00      | Lunch Break                       |
+| 14:00 - 15:30      | Keynotes (round II)               |
+| 15:30 - 18:00 (+5) | Accepted Abstracts (round II)     |
 
 ---
 
