@@ -5,8 +5,7 @@ layout: page
 
 # 1st Doctoral Workshop on Law, Society and Artificial Intelligence
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Image by Su San Lee on Unsplash
-" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here"  width="75%" %}
 
 
 **December 2nd, 2024<br>
