@@ -29,5 +29,5 @@ Keynote speakers will give talks on topics relevant to the workshop. Further inf
 
 Prof. **Dino Pedreschi** - University of Pisa<br>
 Prof. **Bart Verheij** - University of Groningen<br>
-Prof. **James Brusseau** - Pace University, University of Trento<br>
+Prof. **James Brusseau** - Pace University NY, University of Trento<br>
 Prof. **Giuseppe Contissa** - University of Bologna, European University Institute
