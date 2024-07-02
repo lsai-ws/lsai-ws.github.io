@@ -41,7 +41,7 @@ University of Bologna, CIRSFID - Alma AI Research Center, Bologna, Italy.<br>
 <a href="mailto:marco.sanchi4@unibo.it">marco.sanchi4@unibo.it<a>
 
 
-### Progran Committee
+### Program Committee
 
 The Program Committee is composed of members of the Organizing Committee as well as:
 
