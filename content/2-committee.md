@@ -49,5 +49,7 @@ The Program Committee is composed of members of the Organizing Committee as well
 University of Bologna, CIRSFID-Alma AI, Bologna, Italy;<br>
 <a href="mailto:marco.billi3@unibo.it">marco.billi3@unibo.it<a><br>
 
-
-**more tba**
+**Marianna Molinari**<br>
+University of Bologna, Bologna, Italy;<br>
+University of Turin, Turin, Italy<br>
+<a href="mailto:marianna.molinari2@unibo.it">marianna.molinari@unibo.it<a><br>
