@@ -13,6 +13,8 @@ All submissions must be delivered in **PDF format** at <a href="mailto:ailawands
 
 At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity. 
 
+Accepted submissions will be presented by the authors during the workshop Abstract Panel.
+
 
 ### Publication
 
