@@ -44,10 +44,10 @@ University of Bologna, CIRSFID - Alma AI Research Center, Bologna, Italy.<br>
 ### Discussants
 
 **Marco Billi**<br>
-University of Bologna, CIRSFID-Alma AI, Bologna, Italy;<br>
+Law, Science and Technology, international PhD programme, CIRSFID-Alma AI, University of Bologna, Bologna, Italy<br>
 <a href="mailto:marco.billi3@unibo.it">marco.billi3@unibo.it<a><br>
 
 **Marianna Molinari**<br>
-University of Bologna, Bologna, Italy;<br>
+Law, Science and Technology, international PhD programme, CIRSFID-Alma AI, University of Bologna, Bologna, Italy<br>
 University of Turin, Turin, Italy<br>
 <a href="mailto:marianna.molinari2@unibo.it">marianna.molinari@unibo.it<a><br>
