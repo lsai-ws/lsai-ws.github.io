@@ -50,4 +50,4 @@ Law, Science and Technology, international PhD programme, CIRSFID-Alma AI, Unive
 **Marianna Molinari**<br>
 Law, Science and Technology, international PhD programme, CIRSFID-Alma AI, University of Bologna, Bologna, Italy<br>
 University of Turin, Turin, Italy<br>
-<a href="mailto:marianna.molinari2@unibo.it">marianna.molinari@unibo.it<a><br>
+<a href="mailto:marianna.molinari2@unibo.it">marianna.molinari2@unibo.it<a><br>
