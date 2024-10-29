@@ -4,10 +4,6 @@ nav: true
 ---
 The workshop will be held on **December 2nd, 2024.** 
 
-{% include alert.html text="
-The final schedule and invited keynote speakers will be announced as soon as the review process is completed.
-" align="left" color="info" %}
-
 
 ### Tentative Schedule
 
