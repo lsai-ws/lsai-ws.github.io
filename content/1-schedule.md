@@ -2,21 +2,13 @@
 title: Schedule
 nav: true
 ---
-The workshop will be held on **December 2nd, 2024.** 
+The workshop will be held on **December 2nd, 2024.** at Congess Center “LE BENEDETTINE”, Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy**
 
 
-### Tentative Schedule
+### Schedule
 
 
-| Time               | Activity                          |
-|--------------------|-----------------------------------|
-| 09:00 - 10:30      | Keynotes (round I)                |
-| 10:00 - 13:00      | Accepted Abstracts (round I)      |
-| 13:00 - 14:00      | Lunch Break                       |
-| 14:00 - 15:30      | Keynotes (round II)               |
-| 15:30 - 18:00      | Accepted Abstracts (round II)     |
-
----
+Information on the schedule is available [here](../locandina.pdf). Last updated November 19th, 2024.
 
 
 ### Keynote Speakers
