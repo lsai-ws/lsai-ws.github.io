@@ -8,9 +8,9 @@ layout: page
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here"  width="75%" %}
 
 
-**December 2nd, 2024<br>
+**December 2nd, 2024**<br>
 [Congess Center “LE BENEDETTINE”](https://maps.app.goo.gl/v6JqtUAkYCgopKCz7)<br> 
-Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy**
+Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy
 
 {% include alert.html text="Please read the [Workshop Flyer](locandina.pdf) for further information on the program and location. Last updated November 19th, 2024." align="left" color="danger" %}
 
