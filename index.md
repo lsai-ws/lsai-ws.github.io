@@ -12,7 +12,7 @@ layout: page
 Congess Center “LE BENEDETTINE”<br> 
 Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy**
 
-{% include alert.html text="Please read the [Workshop Flyer](locandina.pdf) for further info on the program, and location. Last updated November 19th, 2024." align="left" color="error" %}
+{% include alert.html text="Please read the [Workshop Flyer](locandina.pdf) for further info on the program, and location. Last updated November 19th, 2024." align="left" color="danger" %}
 
 
 
