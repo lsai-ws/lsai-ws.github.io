@@ -2,7 +2,7 @@
 title: Schedule
 nav: true
 ---
-The workshop will be held on **December 2nd, 2024.** at Congess Center “LE BENEDETTINE”, Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy
+The workshop will be held on **December 2nd, 2024.** at [Congess Center “LE BENEDETTINE”](https://maps.app.goo.gl/v6JqtUAkYCgopKCz7), Pazza S. Paolo a Ripa d'Arno, 16, 56125 Pisa (PI), Italy
 
 
 ### Schedule
